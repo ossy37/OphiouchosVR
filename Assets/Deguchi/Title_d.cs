@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine.UI;
 
-public class Title : MonoBehaviour {
+public class Title_d : MonoBehaviour {
 
         public Text blinktext;
 

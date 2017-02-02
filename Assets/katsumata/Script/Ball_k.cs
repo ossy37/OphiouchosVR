@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Ball : MonoBehaviour {
+public class Ball_k : MonoBehaviour {
 
 	private float speed = 10.0f;
 

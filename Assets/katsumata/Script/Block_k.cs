@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Block : MonoBehaviour {
+public class Block_k : MonoBehaviour {
 
 	public GameObject item;		// プレハブ用変数.
 

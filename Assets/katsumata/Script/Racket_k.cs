@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Racket : MonoBehaviour {
+public class Racket_k : MonoBehaviour {
 	public GameObject prefab; //プレハブ用変数
 
 
